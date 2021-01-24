@@ -2,8 +2,8 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
 
-  name: FORREPLACE1235-configmap
-  namespace: FORREPLACE1235
+  name: cdcsdcsdcsvfvfvdcs2625-configmap
+  namespace: cdcsdcsdcsvfvfvdcs2625
 data:
    sql_mode.cnf: |
       [mysqld]
